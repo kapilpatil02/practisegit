@@ -1,1 +1,1 @@
-## I am Practising the Python here and learning about the git and github.
+## I am practising the Python here and learning about the git and github.
